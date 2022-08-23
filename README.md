@@ -14,7 +14,7 @@
 - [Inlong](https://inlong.apache.org)
 - Apache InLong - a one-stop integration framework for massive data
 
-#### 🚀 [Java-notes]https://github.com/leosanqing/Java-Notes)
+#### 🚀 [Java-notes](https://github.com/leosanqing/Java-Notes)
 - [Books](https://github.com/leosanqing/Java-Notes/tree/master/books) (读书是更新自己三观的行为)
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
@@ -34,7 +34,7 @@
 
 | Github Statistics                                                                                           | My Language                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| ![github stats](https://github-readme-stats.vercel.app/api?username=leosanqing&theme=dark&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosanqing&hide=TeX&layout=compact&theme=dark) |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=leosanqing&theme=radical&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosanqing&hide=TeX&layout=compact&theme=dark) |
 
 <hr>
 
