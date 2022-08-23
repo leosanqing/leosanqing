@@ -28,7 +28,7 @@
 5. 💪 Opened PR [#5389](https://github.com/apache/inlong/pull/5389) in [apache/inlong](https://github.com/apache/inlong)
 <!--END_SECTION:activity-->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/jun0315/jun0315/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/leosanqing/leosanqing/output/github-contribution-grid-snake.svg)
 
 <!-- START NEW SECTION -->
 <p align="center">
