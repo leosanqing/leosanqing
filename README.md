@@ -1,10 +1,9 @@
-### Hi there 👋
 
 ### About Me
 
-**🎓 First-year master student at [Beihang University](https://www.buaa.edu.cn/)** **Majoring in Computer Science and Technology**
+**🎓 Three years after graduation, Ping An Technology (Work on Flink real-time computing platform)**
 
-**📫 Email: leosanqing@qq.com**
+**📫 Email: stormleo@qq.com**
 
 **☎️ Scan the [WeChat QR code](https://github.com/leosanqing/leosanqing/blob/master/img/WechatIMG216.jpeg) to add me**
 
@@ -15,10 +14,9 @@
 - [Inlong](https://inlong.apache.org)
 - Apache InLong - a one-stop integration framework for massive data
 
-#### 🚀 [JavaGuide](https://github.com/Snailclimb/JavaGuide)
-
-- [Raft Algorithm](https://javaguide.cn/distributed-system/theorem&algorithm&protocol/raft-algorithm/)
-
+#### 🚀 [Java-notes]https://github.com/leosanqing/Java-Notes)
+- [Books](https://github.com/leosanqing/Java-Notes/tree/master/books) (读书是更新自己三观的行为)
+- [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#5572](https://github.com/apache/inlong/pull/5572) in [apache/inlong](https://github.com/apache/inlong)
