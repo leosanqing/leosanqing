@@ -6,7 +6,7 @@
 
 **📫 Email: leosanqing@qq.com**
 
-**☎️ Scan the [WeChat QR code]([https://github.com/jun0315/jun0315/issues/1](https://github.com/leosanqing/leosanqing/blob/master/img/WechatIMG216.jpeg)) to add me**
+**☎️ Scan the [WeChat QR code](https://github.com/leosanqing/leosanqing/blob/master/img/WechatIMG216.jpeg) to add me**
 
 ### Community Contributions
 
