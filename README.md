@@ -19,10 +19,10 @@
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/leosanqing/hibit-hotel/pull/1) in [leosanqing/hibit-hotel](https://github.com/leosanqing/hibit-hotel)
-2. 💪 Opened PR [#1](https://github.com/leosanqing/hibit-hotel/pull/1) in [leosanqing/hibit-hotel](https://github.com/leosanqing/hibit-hotel)
-3. 🗣 Commented on [#5866](https://github.com/apache/inlong/issues/5866) in [apache/inlong](https://github.com/apache/inlong)
-4. 💪 Opened PR [#5815](https://github.com/apache/inlong/pull/5815) in [apache/inlong](https://github.com/apache/inlong)
+1. 🗣 Commented on [#6771](https://github.com/apache/inlong/issues/6771) in [apache/inlong](https://github.com/apache/inlong)
+2. 🎉 Merged PR [#1](https://github.com/leosanqing/hibit-hotel/pull/1) in [leosanqing/hibit-hotel](https://github.com/leosanqing/hibit-hotel)
+3. 💪 Opened PR [#1](https://github.com/leosanqing/hibit-hotel/pull/1) in [leosanqing/hibit-hotel](https://github.com/leosanqing/hibit-hotel)
+4. 🗣 Commented on [#5866](https://github.com/apache/inlong/issues/5866) in [apache/inlong](https://github.com/apache/inlong)
 5. ❗️ Opened issue [#5810](https://github.com/apache/inlong/issues/5810) in [apache/inlong](https://github.com/apache/inlong)
 <!--END_SECTION:activity-->
 
