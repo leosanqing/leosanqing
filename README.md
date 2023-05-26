@@ -19,9 +19,9 @@
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7371](https://github.com/apache/inlong/pull/7371) in [apache/inlong](https://github.com/apache/inlong)
-2. 🗣 Commented on [#7348](https://github.com/apache/inlong/issues/7348) in [apache/inlong](https://github.com/apache/inlong)
-3. 💪 Opened PR [#7348](https://github.com/apache/inlong/pull/7348) in [apache/inlong](https://github.com/apache/inlong)
+1. ❌ Reopened PR [#8816](https://github.com/apache/hudi/pull/8816) in [apache/hudi](https://github.com/apache/hudi)
+2. ❌ Closed PR [#8816](https://github.com/apache/hudi/pull/8816) in [apache/hudi](https://github.com/apache/hudi)
+3. 💪 Opened PR [#8816](https://github.com/apache/hudi/pull/8816) in [apache/hudi](https://github.com/apache/hudi)
 4. ❗️ Opened issue [#7337](https://github.com/apache/inlong/issues/7337) in [apache/inlong](https://github.com/apache/inlong)
 5. 💪 Opened PR [#7330](https://github.com/apache/inlong/pull/7330) in [apache/inlong](https://github.com/apache/inlong)
 <!--END_SECTION:activity-->
