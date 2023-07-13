@@ -20,7 +20,7 @@
 ### Recent Activities
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#89](https://github.com/apache/rocketmq-flink/pull/89) in [apache/rocketmq-flink](https://github.com/apache/rocketmq-flink)
-2. 🗣 Commented on [#8872](https://github.com/apache/hudi/issues/8872) in [apache/hudi](https://github.com/apache/hudi)
+2. 🗣 Commented on [#8872](https://github.com/apache/hudi/issues/8872#issuecomment-1575502157) in [apache/hudi](https://github.com/apache/hudi)
 3. ❗ Opened issue [#8872](https://github.com/apache/hudi/issues/8872) in [apache/hudi](https://github.com/apache/hudi)
 4. ❌ Reopened PR [#8816](https://github.com/apache/hudi/pull/8816) in [apache/hudi](https://github.com/apache/hudi)
 5. ❌ Closed PR [#8816](https://github.com/apache/hudi/pull/8816) in [apache/hudi](https://github.com/apache/hudi)
