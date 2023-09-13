@@ -19,11 +19,11 @@
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9687](https://github.com/apache/hudi/issues/9687#issuecomment-1715247880) in [apache/hudi](https://github.com/apache/hudi)
-2. ❗ Opened issue [#9687](https://github.com/apache/hudi/issues/9687) in [apache/hudi](https://github.com/apache/hudi)
-3. 🔒 Closed issue [#9626](https://github.com/apache/hudi/issues/9626) in [apache/hudi](https://github.com/apache/hudi)
-4. 🗣 Commented on [#9626](https://github.com/apache/hudi/issues/9626#issuecomment-1707872496) in [apache/hudi](https://github.com/apache/hudi)
-5. 🗣 Commented on [#9626](https://github.com/apache/hudi/issues/9626#issuecomment-1707871122) in [apache/hudi](https://github.com/apache/hudi)
+1. 🗣 Commented on [#9687](https://github.com/apache/hudi/issues/9687#issuecomment-1717136409) in [apache/hudi](https://github.com/apache/hudi)
+2. 🗣 Commented on [#9687](https://github.com/apache/hudi/issues/9687#issuecomment-1717056475) in [apache/hudi](https://github.com/apache/hudi)
+3. 🗣 Commented on [#9687](https://github.com/apache/hudi/issues/9687#issuecomment-1715247880) in [apache/hudi](https://github.com/apache/hudi)
+4. ❗ Opened issue [#9687](https://github.com/apache/hudi/issues/9687) in [apache/hudi](https://github.com/apache/hudi)
+5. 🔒 Closed issue [#9626](https://github.com/apache/hudi/issues/9626) in [apache/hudi](https://github.com/apache/hudi)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/leosanqing/leosanqing/output/github-contribution-grid-snake.svg)
