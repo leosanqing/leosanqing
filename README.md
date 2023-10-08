@@ -14,6 +14,12 @@
 - [Inlong](https://inlong.apache.org)
 - Apache InLong - a one-stop integration framework for massive data
 
+#### 🚀 [Apache Hudi](https://github.com/apache/hudi)
+
+- [HUDI-6675] Fix Clean action will delete the whole table
+- [MINOR] Improve the logic when building bloom filter KeyRangeLookupTree
+- [Apache Hudi](https://hudi.apache.org) (pronounced Hoodie) stands for Hadoop Upserts Deletes and Incrementals.
+
 #### 🚀 [Java-notes](https://github.com/leosanqing/Java-Notes)
 - [Books](https://github.com/leosanqing/Java-Notes/tree/master/books) (读书是更新自己三观的行为)
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
