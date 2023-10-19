@@ -20,6 +20,9 @@
 - [MINOR] Improve the logic when building bloom filter KeyRangeLookupTree
 - [Apache Hudi](https://hudi.apache.org) (pronounced Hoodie) stands for Hadoop Upserts Deletes and Incrementals.
 
+#### 🚀 [bigdata-learning](https://github.com/leosanqing/big-data-study)
+- 关于Hudi-Flink 整合与说用指南
+
 #### 🚀 [Java-notes](https://github.com/leosanqing/Java-Notes)
 - [Books](https://github.com/leosanqing/Java-Notes/tree/master/books) (读书是更新自己三观的行为)
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
