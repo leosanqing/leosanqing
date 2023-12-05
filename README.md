@@ -28,11 +28,11 @@
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#678](https://github.com/sunnyyoung/WeChatTweak-macOS/issues/678#issuecomment-1838213567) in [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)
-2. 🗣 Commented on [#678](https://github.com/sunnyyoung/WeChatTweak-macOS/issues/678#issuecomment-1838211765) in [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)
-3. 💪 Opened PR [#102](https://github.com/apache/rocketmq-flink/pull/102) in [apache/rocketmq-flink](https://github.com/apache/rocketmq-flink)
-4. ❗ Opened issue [#101](https://github.com/apache/rocketmq-flink/issues/101) in [apache/rocketmq-flink](https://github.com/apache/rocketmq-flink)
-5. 🗣 Commented on [#9194](https://github.com/apache/hudi/pull/9194#issuecomment-1768336987) in [apache/hudi](https://github.com/apache/hudi)
+1. 🗣 Commented on [#718](https://github.com/sunnyyoung/WeChatTweak-macOS/issues/718#issuecomment-1839875212) in [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)
+2. 🗣 Commented on [#678](https://github.com/sunnyyoung/WeChatTweak-macOS/issues/678#issuecomment-1838213567) in [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)
+3. 🗣 Commented on [#678](https://github.com/sunnyyoung/WeChatTweak-macOS/issues/678#issuecomment-1838211765) in [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)
+4. 💪 Opened PR [#102](https://github.com/apache/rocketmq-flink/pull/102) in [apache/rocketmq-flink](https://github.com/apache/rocketmq-flink)
+5. ❗ Opened issue [#101](https://github.com/apache/rocketmq-flink/issues/101) in [apache/rocketmq-flink](https://github.com/apache/rocketmq-flink)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/leosanqing/leosanqing/output/github-contribution-grid-snake.svg)
