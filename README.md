@@ -28,7 +28,7 @@
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#718](https://github.com/sunnyyoung/WeChatTweak-macOS/issues/718#issuecomment-1839875212) in [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)
+1. 💪 Opened PR [#24654](https://github.com/apache/flink/pull/24654) in [apache/flink](https://github.com/apache/flink)
 2. 🗣 Commented on [#678](https://github.com/sunnyyoung/WeChatTweak-macOS/issues/678#issuecomment-1838213567) in [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)
 3. 🗣 Commented on [#678](https://github.com/sunnyyoung/WeChatTweak-macOS/issues/678#issuecomment-1838211765) in [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)
 4. 💪 Opened PR [#102](https://github.com/apache/rocketmq-flink/pull/102) in [apache/rocketmq-flink](https://github.com/apache/rocketmq-flink)
