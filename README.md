@@ -28,11 +28,11 @@
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109#issuecomment-2320267238) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
-2. 🗣 Commented on [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109#issuecomment-2312079949) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
-3. 💪 Opened PR [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
-4. 💪 Opened PR [#3568](https://github.com/apache/flink-cdc/pull/3568) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
-5. 🗣 Commented on [#47](https://github.com/itinycheng/flink-connector-clickhouse/issues/47#issuecomment-2242556869) in [itinycheng/flink-connector-clickhouse](https://github.com/itinycheng/flink-connector-clickhouse)
+1. 🗣 Commented on [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109#issuecomment-2333325477) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
+2. 🗣 Commented on [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109#issuecomment-2320267238) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
+3. 🗣 Commented on [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109#issuecomment-2312079949) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
+4. 💪 Opened PR [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
+5. 💪 Opened PR [#3568](https://github.com/apache/flink-cdc/pull/3568) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/leosanqing/leosanqing/output/github-contribution-grid-snake.svg)
