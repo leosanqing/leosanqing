@@ -28,11 +28,11 @@
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109#issuecomment-2333434088) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
-2. 🗣 Commented on [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109#issuecomment-2333325477) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
-3. 🗣 Commented on [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109#issuecomment-2320267238) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
-4. 🗣 Commented on [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109#issuecomment-2312079949) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
-5. 💪 Opened PR [#109](https://github.com/apache/flink-connector-elasticsearch/pull/109) in [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch)
+1. 🎉 Merged PR [#7574](https://github.com/debezium/debezium/pull/7574) in [debezium/debezium](https://github.com/debezium/debezium)
+2. 🗣 Commented on [#7574](https://github.com/debezium/debezium/pull/7574#issuecomment-4877742665) in [debezium/debezium](https://github.com/debezium/debezium)
+3. 🗣 Commented on [#7574](https://github.com/debezium/debezium/pull/7574#issuecomment-4839261124) in [debezium/debezium](https://github.com/debezium/debezium)
+4. 🗣 Commented on [#7574](https://github.com/debezium/debezium/pull/7574#issuecomment-4830366384) in [debezium/debezium](https://github.com/debezium/debezium)
+5. 🗣 Commented on [#7574](https://github.com/debezium/debezium/pull/7574#issuecomment-4830032148) in [debezium/debezium](https://github.com/debezium/debezium)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/leosanqing/leosanqing/output/github-contribution-grid-snake.svg)
