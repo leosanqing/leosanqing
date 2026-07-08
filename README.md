@@ -43,7 +43,7 @@
 
 | Github Statistics                                                                                           | My Language                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| ![github stats](https://github-readme-stats.vercel.app/api?username=leosanqing&theme=radical&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leosanqing&hide=TeX&layout=compact&theme=dark) |
+| ![github stats](https://raw.githubusercontent.com/leosanqing/leosanqing/output/profile-overview.svg) | ![Top Langs](https://raw.githubusercontent.com/leosanqing/leosanqing/output/profile-languages.svg) |
 
 <hr>
 
@@ -54,4 +54,4 @@
 
 <hr>
 
-![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=leosanqing&theme=react-dark)
+![recent repository activity](https://raw.githubusercontent.com/leosanqing/leosanqing/output/profile-activity.svg)
