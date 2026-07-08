@@ -26,6 +26,9 @@ jobs:
           github_user_name: leosanqing
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      - name: fix generated asset permissions
+        run: sudo chown -R "$USER":"$USER" dist
+
       - name: generate profile summary cards
         run: node scripts/generate-profile-cards.mjs
         env:
