@@ -49,10 +49,9 @@
 
 <div align="center">
 <br><h2 align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{leosanqing}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=leosanqing&style=flat-square" /></p> 
 <br></div>
 
 <hr>
 
 ![hezagon's github activity graph](https://activity-graph.herokuapp.com/graph?username=leosanqing&theme=react-dark)
-
