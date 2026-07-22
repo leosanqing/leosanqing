@@ -28,11 +28,11 @@
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4468](https://github.com/apache/flink-cdc/pull/4468#issuecomment-4989457997) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
-2. 💪 Opened PR [#4468](https://github.com/apache/flink-cdc/pull/4468) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
-3. 🗣 Commented on [#3568](https://github.com/apache/flink-cdc/pull/3568#issuecomment-4923649477) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
-4. 🎉 Merged PR [#7574](https://github.com/debezium/debezium/pull/7574) in [debezium/debezium](https://github.com/debezium/debezium)
-5. 🗣 Commented on [#7574](https://github.com/debezium/debezium/pull/7574#issuecomment-4877742665) in [debezium/debezium](https://github.com/debezium/debezium)
+1. 🗣 Commented on [#4468](https://github.com/apache/flink-cdc/pull/4468#issuecomment-5040965687) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
+2. 🗣 Commented on [#4468](https://github.com/apache/flink-cdc/pull/4468#issuecomment-4989457997) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
+3. 💪 Opened PR [#4468](https://github.com/apache/flink-cdc/pull/4468) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
+4. 🗣 Commented on [#3568](https://github.com/apache/flink-cdc/pull/3568#issuecomment-4923649477) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
+5. 🎉 Merged PR [#7574](https://github.com/debezium/debezium/pull/7574) in [debezium/debezium](https://github.com/debezium/debezium)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/leosanqing/leosanqing/output/github-contribution-grid-snake.svg)
