@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="220" viewBox="0 0 760 220" role="img" aria-label="Recently Updated Repositories">
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101820"/>
+      <stop offset="100%" stop-color="#1f2a37"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="220" rx="8" fill="url(#surface)"/>
+  <rect x="0.5" y="0.5" width="759" height="219" rx="7.5" fill="none" stroke="#314155"/>
+  <text x="26" y="38" fill="#f7fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">Recently Updated Repositories</text>
+  <circle cx="38" cy="71" r="5" fill="#38bdf8"/>
+  <text x="56" y="76" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">leosanqing</text>
+  <text x="56" y="98" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Updated 2026-07-24</text>
+<circle cx="38" cy="107" r="5" fill="#22c55e"/>
+  <text x="56" y="112" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">big-data-study</text>
+  <text x="56" y="134" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Updated 2025-09-15</text>
+<circle cx="38" cy="143" r="5" fill="#f59e0b"/>
+  <text x="56" y="148" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">spring-cloud-foodie</text>
+  <text x="56" y="170" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Updated 2023-09-08</text>
+<circle cx="38" cy="179" r="5" fill="#f43f5e"/>
+  <text x="56" y="184" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">thoughtful-article</text>
+  <text x="56" y="206" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Updated 2023-08-25</text>
+</svg>
