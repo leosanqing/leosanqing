@@ -28,7 +28,7 @@
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12414](https://github.com/apache/gravitino/pull/12414#issuecomment-5534770014) in [apache/gravitino](https://github.com/apache/gravitino)
+1. 💪 Opened PR [#29764](https://github.com/apache/flink/pull/29764) in [apache/flink](https://github.com/apache/flink)
 2. 🎉 Merged PR [#9403](https://github.com/apache/paimon/pull/9403) in [apache/paimon](https://github.com/apache/paimon)
 3. 💪 Opened PR [#9403](https://github.com/apache/paimon/pull/9403) in [apache/paimon](https://github.com/apache/paimon)
 4. 🗣 Commented on [#4497](https://github.com/apache/flink-cdc/pull/4497#issuecomment-5325224237) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
