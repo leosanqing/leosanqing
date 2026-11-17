@@ -28,10 +28,10 @@
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29764](https://github.com/apache/flink/pull/29764#issuecomment-6840349811) in [apache/flink](https://github.com/apache/flink)
-2. 🗣 Commented on [#29764](https://github.com/apache/flink/pull/29764#issuecomment-6605574102) in [apache/flink](https://github.com/apache/flink)
-3. 💪 Opened PR [#29764](https://github.com/apache/flink/pull/29764) in [apache/flink](https://github.com/apache/flink)
-4. 🗣 Commented on [#4497](https://github.com/apache/flink-cdc/pull/4497#issuecomment-5325224237) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
+1. 🗣 Commented on [#29764](https://github.com/apache/flink/pull/29764#issuecomment-6935834799) in [apache/flink](https://github.com/apache/flink)
+2. 🗣 Commented on [#29764](https://github.com/apache/flink/pull/29764#issuecomment-6840349811) in [apache/flink](https://github.com/apache/flink)
+3. 🗣 Commented on [#29764](https://github.com/apache/flink/pull/29764#issuecomment-6605574102) in [apache/flink](https://github.com/apache/flink)
+4. 💪 Opened PR [#29764](https://github.com/apache/flink/pull/29764) in [apache/flink](https://github.com/apache/flink)
 5. 💪 Opened PR [#4468](https://github.com/apache/flink-cdc/pull/4468) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
 <!--END_SECTION:activity-->
 
