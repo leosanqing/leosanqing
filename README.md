@@ -28,11 +28,11 @@
 - [Article](https://github.com/leosanqing/thoughtful-article) (记录下自己的想法)
 ### Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29764](https://github.com/apache/flink/pull/29764#issuecomment-6935834799) in [apache/flink](https://github.com/apache/flink)
-2. 🗣 Commented on [#29764](https://github.com/apache/flink/pull/29764#issuecomment-6840349811) in [apache/flink](https://github.com/apache/flink)
-3. 🗣 Commented on [#29764](https://github.com/apache/flink/pull/29764#issuecomment-6605574102) in [apache/flink](https://github.com/apache/flink)
-4. 💪 Opened PR [#29764](https://github.com/apache/flink/pull/29764) in [apache/flink](https://github.com/apache/flink)
-5. 💪 Opened PR [#4468](https://github.com/apache/flink-cdc/pull/4468) in [apache/flink-cdc](https://github.com/apache/flink-cdc)
+1. 🗣 Commented on [#3057](https://github.com/lbjlaq/Antigravity-Manager/issues/3057#issuecomment-7189072911) in [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+2. 🗣 Commented on [#3057](https://github.com/lbjlaq/Antigravity-Manager/issues/3057#issuecomment-7186424314) in [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)
+3. 🗣 Commented on [#29764](https://github.com/apache/flink/pull/29764#issuecomment-6935834799) in [apache/flink](https://github.com/apache/flink)
+4. 🗣 Commented on [#29764](https://github.com/apache/flink/pull/29764#issuecomment-6840349811) in [apache/flink](https://github.com/apache/flink)
+5. 🗣 Commented on [#29764](https://github.com/apache/flink/pull/29764#issuecomment-6605574102) in [apache/flink](https://github.com/apache/flink)
 <!--END_SECTION:activity-->
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/leosanqing/leosanqing/output/github-contribution-grid-snake.svg)
